@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "New Bill";
+    var products = ViewBag.Products as List<MallManagementSystem.Models.Product>;
+}
+
+<div class="container mt-4">
+    <h2>🧾 Create New Bill</h2>
+
+    <form asp-action="Create" method="post">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <table class="table table-bordered">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Product</th>
+                            <th>Available Stock</th>
+                            <th>Price (Rs.)</th>
+                            <th>Quantity to Sell</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (products != null)
+                        {
+                            foreach (var product in products)
+                            {
+                                <tr>
+                                    <td>
+                                        @product.Name
+                                        <input type="hidden" name="ProductIds" value="@product.ProductId" />
+                                    </td>
+                                    <td>@product.Quantity</td>
+                                    <td>@product.Price</td>
+                                    <td>
+                                        <input type="number" name="Quantities" class="form-control" min="0" max="@product.Quantity" value="0" style="width: 100px;" />
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+
+                <button type="submit" class="btn btn-success mt-3">Generate Bill</button>
+            </div>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,90 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using MallManagementSystem.Data;
+using MallManagementSystem.Models;
+using Microsoft.AspNetCore.Authorization;
+
+namespace MallManagementSystem.Controllers
+{
+    [Authorize]
+    public class SalesController : Controller
+    {
+        private readonly ApplicationDbContext _context;
+
+        public SalesController(ApplicationDbContext context)
+        {
+            _context = context;
+        }
+
+        // GET: Sales/Create
+        public async Task<IActionResult> Create()
+        {
+            ViewBag.Products = await _context.Products.ToListAsync();
+            return View();
+        }
+
+        // POST: Sales/Create
+        [HttpPost]
+        public async Task<IActionResult> Create(List<int> ProductIds, List<int> Quantities)
+        {
+            var sale = new Sale
+            {
+                SaleDate = DateTime.Now,
+                TotalAmount = 0
+            };
+
+            decimal total = 0;
+
+            for (int i = 0; i < ProductIds.Count; i++)
+            {
+                int productId = ProductIds[i];
+                int quantity = Quantities[i];
+
+                if (quantity > 0)
+                {
+                    var product = await _context.Products.FindAsync(productId);
+
+                    if (product != null && product.Quantity >= quantity)
+                    {
+                        var saleItem = new SaleItem
+                        {
+                            ProductId = product.ProductId,
+                            Quantity = quantity,
+                            Price = product.Price
+                        };
+
+                        sale.SaleItems.Add(saleItem);
+                        total += product.Price * quantity;
+
+                        product.Quantity -= quantity;
+                        _context.Products.Update(product);
+                    }
+                }
+            }
+
+            sale.TotalAmount = total;
+
+            if (sale.SaleItems.Count > 0)
+            {
+                _context.Sales.Add(sale);
+                await _context.SaveChangesAsync();
+                return RedirectToAction("Receipt", new { id = sale.SaleId });
+            }
+
+            return RedirectToAction("Create");
+        }
+
+        // GET: Sales/Receipt/5
+        public async Task<IActionResult> Receipt(int id)
+        {
+            var sale = await _context.Sales
+                .Include(s => s.SaleItems)
+                .ThenInclude(si => si.Product)
+                .FirstOrDefaultAsync(s => s.SaleId == id);
+
+            if (sale == null) return NotFound();
+
+            return View(sale);
+        }
+    }
+}

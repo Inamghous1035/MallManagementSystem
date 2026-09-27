@@ -1,0 +1,602 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Inam Gujjar\\.copilot\\plans\\plan-create-dashboard-as-new-home-page-after-login.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Inam Gujjar\\.copilot\\plans\\plan-add-role-based-access-control-(rbac)-to-mall-management-system.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Inam Gujjar\\.copilot\\plans\\plan-add-sales-history-feature.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\views\\receipt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\views\\receipt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\mallmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\mallmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\views\\sales\\receipt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\views\\sales\\receipt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\models\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\models\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Migrations\\20260726102145_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MallManagementSystem\\Migrations\\20260726102145_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\migrations\\20260726102606_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\migrations\\20260726102606_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\migrations\\20260726123955_addsalestables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\migrations\\20260726123955_addsalestables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\migrations\\20260728125754_adduserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\migrations\\20260728125754_adduserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|d:\\users\\inam gujjar\\source\\repos\\mallmanagementsystem\\mallmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0C1731-7F4B-7842-B9AA-BD50E08C6260}|MallManagementSystem\\MallManagementSystem.csproj|solutionrelative:mallmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Models\\Sale.cs",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Models\\Sale.cs",
+              "RelativeToolTip": "MallManagementSystem\\Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T12:34:09.105Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MallManagementSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T11:38:18.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MallManagementSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T11:37:56.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Models\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Models\\DashboardViewModel.cs",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Models\\DashboardViewModel.cs",
+              "RelativeToolTip": "MallManagementSystem\\Models\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T11:37:42.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "plan-create-dashboard-as-new-home-page-after-login.md [Preview]",
+              "DocumentMoniker": "C:\\Users\\Inam Gujjar\\.copilot\\plans\\plan-create-dashboard-as-new-home-page-after-login.md",
+              "ToolTip": "C:\\Users\\Inam Gujjar\\.copilot\\plans\\plan-create-dashboard-as-new-home-page-after-login.md [Preview]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-27T11:37:24.375Z",
+              "EditorCaption": " [Preview]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "MallManagementSystem\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAABBwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T11:33:54.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Views\\Users\\Create.cshtml",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "MallManagementSystem\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T11:33:48.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "MallManagementSystem\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T11:33:36.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MallManagementSystem\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T11:33:24.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "plan-add-role-based-access-control-(rbac)-to-mall-management-system.md [Preview]",
+              "DocumentMoniker": "C:\\Users\\Inam Gujjar\\.copilot\\plans\\plan-add-role-based-access-control-(rbac)-to-mall-management-system.md",
+              "ToolTip": "C:\\Users\\Inam Gujjar\\.copilot\\plans\\plan-add-role-based-access-control-(rbac)-to-mall-management-system.md [Preview]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-27T11:28:19.27Z",
+              "EditorCaption": " [Preview]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "MallManagementSystem\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T11:33:59.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Sales\\Index.cshtml",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Views\\Sales\\Index.cshtml",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Sales\\Index.cshtml",
+              "RelativeToolTip": "MallManagementSystem\\Views\\Sales\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T11:26:56.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "plan-add-sales-history-feature.md [Preview]",
+              "DocumentMoniker": "C:\\Users\\Inam Gujjar\\.copilot\\plans\\plan-add-sales-history-feature.md",
+              "ToolTip": "C:\\Users\\Inam Gujjar\\.copilot\\plans\\plan-add-sales-history-feature.md [Preview]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-27T11:24:15.141Z",
+              "EditorCaption": " [Preview]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MallManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T11:20:48.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Program.cs",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Program.cs",
+              "RelativeToolTip": "MallManagementSystem\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAABRwEYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T10:18:31.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MallManagementSystem\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T10:57:24.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Controllers\\SalesController.cs",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "MallManagementSystem\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T12:47:19.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Receipt.cshtml",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Receipt.cshtml",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Views\\Receipt.cshtml",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Receipt.cshtml",
+              "RelativeToolTip": "MallManagementSystem\\Views\\Receipt.cshtml",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAUwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-28T12:22:29.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MallManagementSystem.csproj",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\MallManagementSystem.csproj",
+              "RelativeDocumentMoniker": "MallManagementSystem\\MallManagementSystem.csproj",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\MallManagementSystem.csproj",
+              "RelativeToolTip": "MallManagementSystem\\MallManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-28T13:04:38.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MallManagementSystem\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAABRwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T02:22:08.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MallManagementSystem\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwDEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-29T02:24:28.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260728125754_AddUsersTable.cs",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Migrations\\20260728125754_AddUsersTable.cs",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Migrations\\20260728125754_AddUsersTable.cs",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Migrations\\20260728125754_AddUsersTable.cs",
+              "RelativeToolTip": "MallManagementSystem\\Migrations\\20260728125754_AddUsersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T12:57:55.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Models\\User.cs",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "MallManagementSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T12:50:07.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Receipt.cshtml",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Sales\\Receipt.cshtml",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Views\\Sales\\Receipt.cshtml",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Sales\\Receipt.cshtml",
+              "RelativeToolTip": "MallManagementSystem\\Views\\Sales\\Receipt.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwDYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-28T12:39:18.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260726123955_AddSalesTables.cs",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Migrations\\20260726123955_AddSalesTables.cs",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Migrations\\20260726123955_AddSalesTables.cs",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Migrations\\20260726123955_AddSalesTables.cs",
+              "RelativeToolTip": "MallManagementSystem\\Migrations\\20260726123955_AddSalesTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T12:39:55.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MallManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T10:02:40.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Sales\\Create.cshtml",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Views\\Sales\\Create.cshtml",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Sales\\Create.cshtml",
+              "RelativeToolTip": "MallManagementSystem\\Views\\Sales\\Create.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-26T12:54:33.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaleItem.cs",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Models\\SaleItem.cs",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Models\\SaleItem.cs",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Models\\SaleItem.cs",
+              "RelativeToolTip": "MallManagementSystem\\Models\\SaleItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T12:35:11.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Models\\Product.cs",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Models\\Product.cs",
+              "RelativeToolTip": "MallManagementSystem\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T09:52:58.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "MallManagementSystem\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-26T11:03:25.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "MallManagementSystem\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-26T11:04:57.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "MallManagementSystem\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwDgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-26T11:01:44.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260726102606_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Migrations\\20260726102606_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Migrations\\20260726102606_InitialCreate.cs",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Migrations\\20260726102606_InitialCreate.cs",
+              "RelativeToolTip": "MallManagementSystem\\Migrations\\20260726102606_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T10:26:06.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "MallManagementSystem\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-26T11:08:06.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260726102145_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Migrations\\20260726102145_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MallManagementSystem\\Migrations\\20260726102145_InitialCreate.cs",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\Migrations\\20260726102145_InitialCreate.cs",
+              "RelativeToolTip": "MallManagementSystem\\Migrations\\20260726102145_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T10:21:45.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "MallManagementSystem\\appsettings.json",
+              "ToolTip": "D:\\Users\\Inam Gujjar\\source\\repos\\MallManagementSystem\\MallManagementSystem\\appsettings.json",
+              "RelativeToolTip": "MallManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-26T10:16:07.659Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

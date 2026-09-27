@@ -1,0 +1,52 @@
+@model List<MallManagementSystem.Models.Sale>
+
+@{
+    ViewData["Title"] = "Sales History";
+}
+
+<div class="container mt-5">
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <h1>📊 Sales History</h1>
+        </div>
+    </div>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="table-responsive">
+            <table class="table table-striped table-hover">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Bill No</th>
+                        <th>Date & Time</th>
+                        <th>Total Amount</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var sale in Model)
+                    {
+                        <tr>
+                            <td><strong>#@sale.SaleId</strong></td>
+                            <td>@sale.SaleDate.ToString("dd-MM-yyyy hh:mm tt")</td>
+                            <td>
+                                <span class="badge bg-success">Rs. @sale.TotalAmount.ToString("F2")</span>
+                            </td>
+                            <td>
+                                <a asp-action="Receipt" asp-route-id="@sale.SaleId" class="btn btn-sm btn-primary">
+                                    👁️ View Receipt
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info" role="alert">
+            <strong>No sales found.</strong> Start by creating a <a asp-action="Create" class="alert-link">new sale</a>.
+        </div>
+    }
+</div>
